@@ -93,9 +93,8 @@ body {
     text-align: center;
     margin-top: 10em;
     margin-left: 7em;
-    box-shadow: 12px 12px 12px 1px rgba(54,54,54,0.69);
-    -webkit-box-shadow: 12px 12px 12px 1px rgba(54,54,54,0.69);
-    -moz-box-shadow: 12px 12px 12px 1px rgba(54,54,54,0.69);
+    -webkit-box-shadow: 4px 6px 23px -8px #000000; 
+    box-shadow: 4px 6px 23px -8px #000000;
     width: 30em;
     border-radius: 26px;
     
